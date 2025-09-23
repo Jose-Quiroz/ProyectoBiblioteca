@@ -1,2 +1,2 @@
-# Challenge-Team-POO
+# Challenge-Team
 Repositorio de Challenge Team
