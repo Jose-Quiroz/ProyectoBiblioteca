@@ -1,5 +1,6 @@
 public class Prueba {
     public static void main(String[] args) {
-        System.out.println("Solucion");
+        System.out.println("prueba  pull request");
+
     }
-}
+
