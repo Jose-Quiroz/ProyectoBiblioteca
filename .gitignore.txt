@@ -1,0 +1,8 @@
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Ignorar archivos compilados
+.class
+.jar
